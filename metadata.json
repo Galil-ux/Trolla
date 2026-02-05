@@ -1,0 +1,5 @@
+{
+  "name": "Chronos Calendar",
+  "description": "A sophisticated calendar application featuring smart event creation via Gemini AI, email account management, birthday tracking, and robust backup/restore capabilities.",
+  "requestFramePermissions": []
+}
